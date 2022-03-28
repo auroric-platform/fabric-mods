@@ -18,13 +18,13 @@ You can find the downloads for each version with their release notes in the [rel
 
 
 ## 🔧 Installation
-If you have already installed other Fabric mods, unziped the folder and simply place the content from the `mods` folder directly inside your current `mods` folder
+If you have already installed other Fabric mods, unziped the folder and simply place the content from the `mods` folder directly inside your current `mods` folder.
 
 ### Windows
-Unziped the folder and place the `mods` folder directly under `%APPDATA%\.minecraft`
+Unziped the folder and place the `mods` folder directly under `%APPDATA%\.minecraft`.
 
 ### MacOS
-Unziped the folder and place the `mods` folder directly under `~/Library/Application Support/minecraft`
+Unziped the folder and place the `mods` folder directly under `~/Library/Application Support/minecraft`.
 
 
 ## 🗓 Update
