@@ -1,5 +1,5 @@
 <!-- Variables (this block will not be visible in the readme -->
-[banner]: https://i.imgur.com/XLQ2lyI.png
+[banner]: https://i.imgur.com/LLsrKaE.png
 [link]: https://github.com/auroric-platform/fabric-mods/
 <!-- End of variables block -->
 
